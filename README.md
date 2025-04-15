@@ -46,9 +46,9 @@ Correction des fichiers.
 
 # 3. Gérer des nouvelles fonctionnalités à l’aide des branches
 ## Exercice :
-**1- Athos et Porthos faire les sections 3.1 et 3.2 séparément sans synchronisation avec le dépot github.**
-**2- Ensuite, supprimez le fichier test.txt du dépôt, pour cela, écrivez la commande git rm test.txt puis git commit -m "test.txt supprimé".**
-**3- Chacun de vous va créer une branche appelée AthosCoin et PorthosCoin respectivement. Dans cette branche, vous allez créer votre crypto-monnaie (suivez l’exemple d’AramisCoin ci-dessous). Une fois la devise créée, fusionnez la branche avec la branche principale. Assurez-vous ensuite que les modifications sont synchronisées dans le dépôt github.**
+        1- Athos et Porthos faire les sections 3.1 et 3.2 séparément sans synchronisation avec le dépot github.
+        2- Ensuite, supprimez le fichier test.txt du dépôt, pour cela, écrivez la commande git rm test.txt puis git commit -m "test.txt supprimé".
+        3- Chacun de vous va créer une branche appelée AthosCoin et PorthosCoin respectivement. Dans cette branche, vous allez créer votre crypto-monnaie (suivez l’exemple d’AramisCoin ci-dessous). Une fois la devise créée, fusionnez la branche avec la branche principale. Assurez-vous ensuite que les modifications sont synchronisées dans le dépôt github.
 
 ## 3.1. Tester le concept de branche avec un exemple simple
 Commande :`tree -f`
